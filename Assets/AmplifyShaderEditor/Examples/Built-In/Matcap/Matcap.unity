@@ -544,7 +544,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 841cf9860bb1f2a4d8c3399c3e0abe2e,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 841cf9860bb1f2a4d8c3399c3e0abe2e, type: 3}
@@ -893,7 +893,7 @@ PrefabInstance:
     - target: {fileID: -5102816728627494459, guid: ccc5d7a94ced0c44a882e571def3e856,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -2776263885545099738, guid: ccc5d7a94ced0c44a882e571def3e856,
         type: 3}
@@ -908,7 +908,7 @@ PrefabInstance:
     - target: {fileID: -1495803189482227969, guid: ccc5d7a94ced0c44a882e571def3e856,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ccc5d7a94ced0c44a882e571def3e856,
         type: 3}
@@ -1077,6 +1077,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Cap
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 166bfe1771a50794b9ea5e1d83cacc30,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 166bfe1771a50794b9ea5e1d83cacc30, type: 3}
@@ -1437,7 +1442,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 71040e3e0e2019e4694285638e94b980,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.63
+      value: -3.97
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 71040e3e0e2019e4694285638e94b980,
         type: 3}
@@ -1513,6 +1518,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Girl_Mesh
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 71040e3e0e2019e4694285638e94b980,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2149269944492870489, guid: 71040e3e0e2019e4694285638e94b980,
         type: 3}
@@ -1797,23 +1807,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Root: {fileID: 112360028}
-  m_UpdateRate: 60
+  m_UpdateRate: 30
   m_UpdateMode: 3
-  m_Damping: 0.08
+  m_Damping: 0.03
   m_DampingDistrib:
     serializedVersion: 2
     m_Curve: []
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  m_Elasticity: 0.03
+  m_Elasticity: 0.015
   m_ElasticityDistrib:
     serializedVersion: 2
     m_Curve: []
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  m_Stiffness: 0
+  m_Stiffness: 0.91
   m_StiffnessDistrib:
     serializedVersion: 2
     m_Curve: []
@@ -1841,7 +1851,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  m_EndLength: 100
+  m_EndLength: 1000
   m_EndOffset: {x: 0, y: 0, z: 0}
   m_Gravity: {x: 0, y: 0, z: 0}
   m_Force: {x: 0, y: 0, z: 0}

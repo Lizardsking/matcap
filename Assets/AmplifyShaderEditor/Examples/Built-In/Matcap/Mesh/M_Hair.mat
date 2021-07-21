@@ -60,7 +60,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _skinHazardousarts:
-        m_Texture: {fileID: 2800000, guid: 823107373b9feae49b39bee2825107ea, type: 3}
+        m_Texture: {fileID: 2800000, guid: 56b6c47a298b02345aa98dd76debabf5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _texcoord:
@@ -75,12 +75,12 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _Matcap_add: -0.12
+    - _Matcap_add: -0.4
     - _Matcap_desaturation: 1
-    - _Matcap_strength: 0.18
+    - _Matcap_strength: 0.2
     - _Metallic: 0
     - _Mode: 0
-    - _Normal_strength: -0.16
+    - _Normal_strength: 0.05
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _SmoothnessTextureChannel: 0
