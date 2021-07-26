@@ -82,16 +82,18 @@ Material:
     m_Floats:
     - _BumpScale: 1
     - _Cutoff: 0.5
+    - _Desaturate_Color: 0
+    - _Desaturate_TextureColor: 0
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _GeneralShift: 0.67
+    - _GeneralShift: 0.92
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
     - _Highlight_1_Power: 400
     - _Highlight_1_Shift: 0.05
     - _Highlight_1_Strength: 0.2
-    - _Highlight_2_Power: 21.2
+    - _Highlight_2_Power: 20
     - _Highlight_2_Shift: 0.3
     - _Highlight_2_Strength: 0.3
     - _Jitter: 0
@@ -99,6 +101,7 @@ Material:
     - _Jitter_Balance: 0.5
     - _Metallic: 0
     - _Mode: 0
+    - _Normal_Strength: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _SmoothnessTextureChannel: 0
