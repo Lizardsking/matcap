@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/taecgLibrary/HairShaders/DEMO/HairDemo.unity
+- path: Assets/AmplifyShaderEditor/Examples/Built-In/Matcap/Matcap.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
