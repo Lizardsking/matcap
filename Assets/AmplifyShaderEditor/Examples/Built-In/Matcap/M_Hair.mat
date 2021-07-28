@@ -92,7 +92,7 @@ Material:
     - _Highlight_1_Power: 1000
     - _Highlight_1_Shift: 0
     - _Highlight_1_Strength: 1
-    - _Highlight_2_Power: 12.92
+    - _Highlight_2_Power: 20
     - _Highlight_2_Shift: 0
     - _Highlight_2_Strength: 0.4
     - _Jitter: -9.8
@@ -100,7 +100,7 @@ Material:
     - _Jitter_Balance: 0.5
     - _Metallic: 0
     - _Mode: 0
-    - _Normal_Strength: 0
+    - _Normal_Strength: 2.3
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _SmoothnessTextureChannel: 0
@@ -116,4 +116,4 @@ Material:
     - _Hair_Color: {r: 1, g: 1, b: 1, a: 0}
     - _Highlight_1_Color: {r: 1, g: 1, b: 1, a: 1}
     - _Highlight_2_Color: {r: 1, g: 1, b: 1, a: 1}
-    - _LIghtDirection: {r: 0.5, g: -0.5, b: 0, a: 0}
+    - _LIghtDirection: {r: -1, g: -1, b: -1, a: 0}

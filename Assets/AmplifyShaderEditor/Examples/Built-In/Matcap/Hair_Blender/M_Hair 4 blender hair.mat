@@ -91,7 +91,7 @@ Material:
     - _GlossyReflections: 1
     - _Highlight_1_Power: 400
     - _Highlight_1_Shift: 0
-    - _Highlight_1_Strength: 0.2
+    - _Highlight_1_Strength: 0.3
     - _Highlight_2_Power: 20.21
     - _Highlight_2_Shift: 0.1
     - _Highlight_2_Strength: 0.2
