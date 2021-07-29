@@ -84,8 +84,8 @@ Material:
     - _Glossiness: 0.5
     - _GlossyReflections: 1
     - _Matcap_add: 0
-    - _Matcap_desaturation: 1
-    - _Matcap_strength: 0.5
+    - _Matcap_desaturation: 0
+    - _Matcap_strength: 1
     - _Metallic: 0
     - _Mode: 0
     - _Normal_strength: 1

@@ -169,6 +169,7 @@
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\ScreenSpaceCurvature\ScreenSpaceCurvature.shader" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\Community SingleChannelMasking\SingleChannelMasking.shader" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\OrientationBasedSprite\OrientationBasedSprite.shader" />
+    <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\Matcap\Matcap2_backup.shader" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\DoubleLayerCustomSurface\DoubleLayerCustomSurface.shader" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\Burn\BurnEffect.shader" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\CustomOutlineToon\CustomOutlineToon.shader" />
@@ -182,6 +183,7 @@
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\Community Skybox Cubemap Extended\Credits.txt" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\Community Melting\Credits.txt" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\PlaneClip\ClipArea.shader" />
+    <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\Matcap\Light.shader" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\SimpleRefraction\SimpleRefraction.shader" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\Water\Ground.shader" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\SimpleTerrain\GrassBlades.shader" />
