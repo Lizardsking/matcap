@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Matcap4_forHead
+  m_Shader: {fileID: 4800000, guid: 0e294f18be5b2b049ad612f2f45ca637, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _LCheek_texture:
+        m_Texture: {fileID: 2800000, guid: cb391253c02fca3408656323fa301794, type: 3}
+        m_Scale: {x: 8, y: 8}
+        m_Offset: {x: -4.29687, y: -4.34375}
+    - _LEye_texture:
+        m_Texture: {fileID: 2800000, guid: 08dda17445cb37e49888e1434e1d2408, type: 3}
+        m_Scale: {x: 8, y: 8}
+        m_Offset: {x: -4.1406, y: -5.125}
+    - _Lips:
+        m_Texture: {fileID: 2800000, guid: b8c8511d6695e6945912ddce4ecf9b53, type: 3}
+        m_Scale: {x: 4, y: 4}
+        m_Offset: {x: -1.5234, y: -1.59375}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 5018c4a2fe5296246b882398a542fef1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalTex:
+        m_Texture: {fileID: 2800000, guid: f4d420f84591c104a881199cb4cfc7f5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RCheek_texture:
+        m_Texture: {fileID: 2800000, guid: 5f0ed3848c01db64fb310bd794618cb8, type: 3}
+        m_Scale: {x: 4, y: 4}
+        m_Offset: {x: -0.95703, y: -1.92578}
+    - _REye_texture:
+        m_Texture: {fileID: 2800000, guid: 3e42fd90c83d3e548bdf5a4eba0f1852, type: 3}
+        m_Scale: {x: 8, y: 8}
+        m_Offset: {x: -2.8125, y: -4.8125}
+    - _matcapMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _matcap_B:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _matcap_G:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _matcap_R:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _matcap_default:
+        m_Texture: {fileID: 2800000, guid: 7a06754892719da4fadf5997db2fba27, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Matcap_default_strength: 1
+    - _Normal_strength: 1
+    - _Use_B_Mask: 0
+    - _Use_G_Mask: 0
+    - _Use_R_Mask: 0
+    - __dirty: 0
+    - _matcap_B_Strength: 1
+    - _matcap_G_Strength: 1
+    - _matcap_R_Strength: 1
+    m_Colors: []
