@@ -10,7 +10,7 @@ Material:
   m_Name: M_Hair 2
   m_Shader: {fileID: 4800000, guid: 6f27ee58c698e514c921a63f1d96b6fb, type: 3}
   m_ShaderKeywords: 
-  m_LightmapFlags: 0
+  m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -81,7 +81,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _BumpScale: 1
-    - _Cutoff: 0.16
+    - _Cutoff: 0.59
     - _Desaturate_Color: 0
     - _Desaturate_TextureColor: 0
     - _DetailNormalMapScale: 1

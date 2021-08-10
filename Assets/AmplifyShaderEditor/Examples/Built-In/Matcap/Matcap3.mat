@@ -48,7 +48,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _matcap_R:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: b2351295a76eec24a95c913fb1806c62, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _matcap_default:
@@ -79,6 +79,6 @@ Material:
     - __dirty: 0
     - _matcap_B_Strength: 1
     - _matcap_G_Strength: 1
-    - _matcap_R_Strength: 0
+    - _matcap_R_Strength: 1
     m_Colors:
     - _FlatColor: {r: 0, g: 0, b: 0, a: 0}

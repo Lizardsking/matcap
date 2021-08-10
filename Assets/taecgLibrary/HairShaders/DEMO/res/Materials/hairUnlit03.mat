@@ -80,7 +80,7 @@ Material:
     - _BumpScale: 1
     - _ColorIntensity: 1
     - _Cull: 0
-    - _Cutoff: 0.57
+    - _Cutoff: 0.74
     - _CutoffMainTexA: 0.55
     - _Cutout: 0
     - _DetailNormalMapScale: 1
