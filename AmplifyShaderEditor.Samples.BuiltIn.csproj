@@ -75,6 +75,7 @@
     <Compile Include="Assets\AmplifyShaderEditor\Examples\Built-In\Smear\Smear.cs" />
     <Compile Include="Assets\AmplifyShaderEditor\Examples\Built-In\TemplateExamples\PostProcess\Sobel\PostProcessExample.cs" />
     <Compile Include="Assets\AmplifyShaderEditor\Examples\Built-In\TemplateExamples\Sprites\SpriteMask\SpriteMaskController.cs" />
+    <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\Matcap\Skin.shader" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\MultiPassDistortion\DoublePassUnlitTemplate.shader" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\StencilExample\RefractionsPanels\AnimatedRefraction.shader" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\VertexNormalReconstruction\VertexNormalReconstruction.shader" />
@@ -185,11 +186,13 @@
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\Community Melting\Credits.txt" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\PlaneClip\ClipArea.shader" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\Matcap\Light.shader" />
+    <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\Matcap\Hairworks (1).shader" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\SimpleRefraction\SimpleRefraction.shader" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\Water\Ground.shader" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\SimpleTerrain\GrassBlades.shader" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\CustomLightingToon\CustomLightingToon.shader" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\Matcap\Hair_backup3.shader" />
+    <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\Matcap\Cloth.shader" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\Matcap\Matcap_head.shader" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\StencilExample\Portals\Portal01\StencilDiffuse01.shader" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\Community Volumetric Pixelization\Combine Layers.shader" />
@@ -197,6 +200,7 @@
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\TemplateExamples\UI\MaskedUI\MaskedUI.shader" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\AnimatedFire-ShaderFunction\AnimatedFire-ShaderFunction.shader" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\Matcap\Matcap2.shader" />
+    <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\Matcap\Hairworks (2).shader" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\UnlitWithLightmap\UnlitWithLightmap.shader" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\Smear\Smear.shader" />
     <None Include="Assets\AmplifyShaderEditor\Examples\Built-In\Community 2Sided\Credits.txt" />

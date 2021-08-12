@@ -69,8 +69,10 @@
     <Compile Include="Assets\DynamicBone\Scripts\DynamicBonePlaneCollider.cs" />
     <Compile Include="Assets\taecgLibrary\HairShaders\DEMO\res\HairShaderDEMOMgr.cs" />
     <Compile Include="Assets\taecgLibrary\HairShaders\DEMO\res\RotateSelf.cs" />
+    <None Include="Assets\taecgLibrary\HairShaders\HairUnlit_Pass_1.shader" />
     <None Include="Assets\taecgLibrary\HairShaders\HairBasic.shader" />
     <None Include="Assets\taecgLibrary\HairShaders\HairUnlit.shader" />
+    <None Include="Assets\taecgLibrary\HairShaders\HairUnlit_Pass_2.shader" />
     <None Include="Assets\taecgLibrary\HairShaders\HairPBR_Specular.shader" />
     <None Include="Assets\DynamicBone\ReadMe.txt" />
     <None Include="Assets\taecgLibrary\HairShaders\HairPBR_Metallic.shader" />
